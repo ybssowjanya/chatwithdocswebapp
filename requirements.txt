@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+azure-ai-projects==1.0.0b10
+azure-identity
+azure-storage-blob
+pydantic
+python-multipart
+pyodbc
+jsonref
+gunicorn
