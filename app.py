@@ -17,6 +17,7 @@ from pydantic import BaseModel
 from jsonref import JsonRef
 from fastapi import UploadFile, File, Form
 
+#Intialize Logger
 logger = logging.getLogger(__name__)
 
 # Initialize FastAPI app
